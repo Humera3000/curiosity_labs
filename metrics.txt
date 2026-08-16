@@ -1,0 +1,8 @@
+=========================================
+WEEK 1 DATA CAPTURE: CHAPTER 1 METRICS
+=========================================
+1. TARGET STREAMLIT METRIC: US Wealth Share Distribution (Top 1% vs Bottom 99%)
+2. TARGET API SOURCE: FRED API (Federal Reserve Economic Data)
+3. TARGET CHART TYPE: Plotly Interleaved Area Chart
+
+4. CORE SCRIPT ANGLE: In the last 30 years, the top 0.01% saw wages skyrocket by 300%, while the bottom 20% actually saw their real income drop. 
